@@ -1,0 +1,10 @@
+public/
+resources/_gen/
+hugo_stats.json
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
