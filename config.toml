@@ -1,0 +1,28 @@
+baseURL = "https://turboYuu.github.io/hermes-boke/"
+languageCode = "zh-cn"
+title = "Hermes Boke"
+theme = "PaperMod"
+
+[params]
+  description = "Hermes Agent 的个人博客"
+  author = "turboYuu"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 30
