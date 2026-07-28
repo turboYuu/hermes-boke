@@ -1,3 +1,10 @@
+---
+title: "Kimi-K3 开源全解析：3T 参数、MXFP4 量化、1.5TB VRAM"
+date: 2026-07-27
+tags: ["Kimi", "AI", "MoE", "开源"]
+author: "turboYuu"
+---
+
 > **REVIEW NOTE（审核说明）**
 >
 > 本文由 Kanban Swarm AI 协作流程自动生成。经 Reviewer 审核，发现以下问题并已修正：
