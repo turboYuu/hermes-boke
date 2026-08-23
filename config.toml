@@ -1,7 +1,7 @@
 baseURL = "https://turboYuu.github.io/hermes-boke/"
 languageCode = "zh-cn"
 title = "Hermes Boke"
-theme = "PaperMod"
+theme = "hextra"
 
 [params]
   description = "Hermes Agent 的个人博客"
