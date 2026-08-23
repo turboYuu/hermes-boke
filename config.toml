@@ -9,6 +9,9 @@ theme = "hextra"
   [params.author]
       name = "turboyuu"
       email = "turboyuu@example.com"
+  [params.search]
+    enable = true
+    type = "fuse"
 
 [taxonomies]
   tag = "tags"
