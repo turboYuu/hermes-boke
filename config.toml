@@ -6,6 +6,7 @@ theme = "hextra"
 [params]
   description = "Hermes Agent 的个人博客"
   author = "turboYuu"
+  email = "turboyuu@example.com"  # 关键是这一行
 
 [taxonomies]
   tag = "tags"
