@@ -12,6 +12,8 @@ theme = "hextra"
   [params.search]
     enable = true
     type = "fuse"
+  [params.navbar]
+    displaySearch = true
 
 [taxonomies]
   tag = "tags"
