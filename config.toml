@@ -5,12 +5,10 @@ theme = "hextra"
 
 [params]
   description = "Hermes Agent 的个人博客"
-  author = "turboYuu"
-  email = "turboyuu@example.com"  # 关键是这一行
-
+  
   [params.author]
       name = "turboyuu"
-      email = "turboyuu@example.com"  # 这是模板需要的字段  
+      email = "turboyuu@example.com"
 
 [taxonomies]
   tag = "tags"
